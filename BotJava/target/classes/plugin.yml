@@ -1,0 +1,4 @@
+name: Bot
+version: '1.0-SNAPSHOT'
+main: com.artyz.Main
+api-version: 1.18

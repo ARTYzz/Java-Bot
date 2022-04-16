@@ -1,0 +1,4 @@
+name: Bot
+version: '${project.version}'
+main: com.artyz.Main
+api-version: 1.18
